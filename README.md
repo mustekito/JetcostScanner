@@ -1,4 +1,4 @@
-# JetcostSearcher
+# JetcostScanner
 
 This script searches for cheap flights in JestCost Colombia on the dates you indicate.
 
